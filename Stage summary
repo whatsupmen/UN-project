@@ -1,0 +1,11 @@
+Our team is responsible for UK file's analytics. We got familiar and replicated your phase I modeling. You guys did an amazing job. We hope we could keep the good work up and build on yours.
+ 
+As directed by the hand it over the file you passed to us, we conducted the sentence basis analytics specifically focused on UK policy files under Python environment. We built the data frame below (also in attachment in excel format) to summarize the sentence tagging results. 
+ 
+Out of 523 sentences contained in the UK text, there are 18 sentences tagged by the category and subcategory selected. The tagging rate is only 3.44%, which is considered relatively low. However, this only applies to UK case. We can also check this rate using other countries' text data.
+ 
+Since we are currently using the supervised model, we may need more directions or suggestions on how to choose the category/ subcategory. We figured there are only a few keywords captured. We may need your guide or UN official's guide to expanding the categories in the scenario of the supervised ones.
+ 
+Our next stage's goals are expanding the categories in supervised modeling, exploring unsupervised modeling, and getting started on the visualization part.
+ 
+Thanks for the Phase I team's support throughout the hand-it-over procedure. Our team is excited about the opportunity and committed. We expect more progress to come. There is the result we already done.
