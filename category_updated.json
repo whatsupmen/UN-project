@@ -1,0 +1,65 @@
+[
+    {
+        "category": "legal measures", 
+        "subcategory": [
+            "criminal legislation", 
+            "regulation and compliance",
+            "government action", "international action", "democracy", "the rule of law", "rule", "law", 
+            "institution", "human rights", "freedom", "privacy", "secure", "protection", "minister", "safeguard", "national resilience", "administration", "government", "data protection regulation"
+        ]
+    }, 
+    {
+        "category": "technical measures", 
+        "subcategory": [
+            "cirt", 
+            "standards", 
+            "certification",
+            "security skills", "systemic issues", "computing", "strategy", "specialist", "effective", "technology", 
+            "digital", "talent", "device", "system", "software", "assessment", "technology", "IT upgrade", "strategic approach"
+        ]
+    }, 
+    {
+        "category": "organization measures", 
+        "subcategory": [
+            "policy", 
+            "roadmap for governance", 
+            "responsible agency", 
+            "national benchmarking",
+            "structure", "strategy", "monitor", "evaluate","policy", "roadmap governance", "responsible agency", "national benchmarking" 
+            
+        ]
+    }, 
+    {
+        "category": "capacity building", 
+        "subcategory": [
+            "standardisation development", 
+            "manpower development", 
+            "professional certification", 
+            "agency certification",
+            "behavioral change", "infrastructure development", "fundraising", "training centers", "exposure visit","office and documentation support", "job training", "learning center", "consultant", "enhance", "education"
+        ]
+    }, 
+    {
+        "category": "cooperation", 
+        "subcategory": [
+            "intra-state cooperation", 
+            "intra-agency cooperation", 
+            "public sector partnership", 
+            "international cooperation",
+            "intra-state cooperation", "intra-agency cooperation", "public sector partnership", "international cooperation","business partnership","private sector partnership","government partnership",
+            "education partnership","GCHQ and business partnership","organization partnership","department partnership","national infrastructurepartnership","cyber security hub","funding partners",
+            "national cyber crime capability","partnership between public private sectors","partnership between government and private sector","government and industry partnership"
+        ]
+    }, 
+    {
+        "category": "child online protection", 
+        "subcategory": [
+            "national legislation", 
+            "un convention and protocol", 
+            "institutional support", 
+            "reporting mechanism",
+            "national legislation","UN convention and protocol","institutional support","reporting mechanism", "UK council for child internet safety","national crime agency","shaping mainstream law",
+            "training mainstream law","government interface","police force","NCA","resilience to cyber attacks","government support","education","technical capabilities","public service"
+        ]
+    }
+]
